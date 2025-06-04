@@ -4,7 +4,7 @@ Default RIS Compute2 Nextflow Configuration
 
 ## Quick-Start
 
-1. Overwrite default configuration in $HOME.
+1. Overwrite default configuration in `$HOME`.
    ```bash
    mkdir -p $HOME/.config/nextflow/
    rm -rf $HOME/.config/nextflow/nextflow.config

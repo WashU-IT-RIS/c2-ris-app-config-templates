@@ -15,3 +15,4 @@ Default RIS Compute2 Nextflow Configuration
    ```
    vi $HOME/.config/nextflow/nextflow.config
    ```
+

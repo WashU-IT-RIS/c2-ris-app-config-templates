@@ -8,7 +8,7 @@ Default RIS Compute2 Nextflow Configuration
    ```bash
    mkdir -p $HOME/.config/nextflow/
    rm -rf $HOME/.config/nextflow/nextflow.config
-   wget https://github.com/WashU-IT-RIS/c2-ris-app-config-templates/blob/main/nextflow/nextcloud.config -O $HOME/.config/nextflow/nextflow.config
+   wget https://raw.githubusercontent.com/WashU-IT-RIS/c2-ris-app-config-templates/refs/heads/main/nextflow/nextflow.config -O $HOME/.config/nextflow/nextflow.config
    ```
 
 1. Update the `cacheDir` path in `nextflow.config` with somewhere that exists and is owned by your user.
